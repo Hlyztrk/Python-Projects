@@ -1,2 +1,2 @@
-# PythonGames
- Creating Easy Games in Python
+# Beginner-Friendly Python Projects
+ Creating projects in Python
