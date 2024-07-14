@@ -24,4 +24,4 @@ Please check python turtle documentation to get yourself familiarize with the mo
    - After detecting the winning turtle, we inform the user whether they win the game or not.
    - Next thing we do is to ask the user if they would like to play the game again. If they like play again, we restart the game.(**Hint:** Find more about recursion in python.)
 The final game should look like this:
-<img src="turtlerace.gif" width="400" height="300" />
+<img src="turtlerace.gif" width="320" height="300" />
