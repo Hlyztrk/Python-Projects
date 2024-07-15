@@ -1,5 +1,5 @@
 # Coffee Machine
-The objective of this game is to build a coffee machine where a user will be able to order a coffee, pay for their order and get their change back.
+The objective of this project is to build a coffee machine where a user will be able to order a coffee, pay for their order and get their change back.
 ### Prerequisites
  - Familiarity with Python's OOP concepts
  - An IDE such as VS Code, Pycharm(I use Pycharm for this project)
