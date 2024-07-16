@@ -18,4 +18,4 @@ We will build a true-false quiz game, completely using Object Oriented Programmi
    - Create another method called `next_question()`. This method will take a list of questions. Starting from the first question, it will ask the user for an input : True or False. Next, we will call `check_answer()` method inside `next_question()` method and will check if the answer given is corret.
    - Lastly, we create a method to check if there are any more questions. We will name this method `still_has_questions()` which will return a boolean value and we will call it in `main.py` to get questions being asked.
 **The final result should look like this:**
-<img src="quiz.gif" width="420" height="440" />
+<img src="quiz.gif" width="460" height="480" />
