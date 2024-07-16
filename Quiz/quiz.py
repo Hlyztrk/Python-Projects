@@ -13,10 +13,11 @@ class QuizBrain:
         self.check_answers(user_guess, current_question.answer)
         self.question_num += 1
 
-   
+    # Check if there are any more questions
     def still_has_questions(self):
         return self.question_num < len(self.question_list)
     
+    # Check the user answer matches with the correct answer
     def check_answers(self, answer, correct_answer):
         if answer.lower() == correct_answer.lower():
             self.score += 1
