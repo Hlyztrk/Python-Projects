@@ -22,4 +22,4 @@ We will build an interactive Hangman game, in which the participant has to guess
 11. If the wrong guesses count equals to the length of `HANGMANART` list, then display the random word and break the loop.
 12. Finally, to stop the console looking too cluttered, we clear the screen after a guess. After every clear, `HANGMAN`, `HANGMANART` and `secret_word` should be display back on the console.(**Hint** Find more about `os` and `time` modules about clearing the console and delaying the clearing process.)
 **The final result should look like this:**
-<img src="caesarcipher.gif" width="460" height="480" />
+<img src="hangman.gif" width="460" height="480" />
