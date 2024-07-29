@@ -9,10 +9,12 @@ The objective of this repository is to build fun projects using Python. We will 
 - Caesar Cipher
 - Hangman
 - Higher or Lower
+- Pong
+- Snake
 
 ### Prerequisites
-- Basic Python knowledge
+- Basic Python knowledge but Turtle Race, Pong, Snake requires intermediate knowledge of Python.
 
 **Please read the readme file in each project before you start**
 
-These projects are inspired from Angela Yu's 100 Days of Python Course on Udemy.
+These projects are taken from Angela Yu's 100 Days of Python Course on Udemy. While the solution for some projects was the same as Angela's, I applied my own solution ideas to some of them.
