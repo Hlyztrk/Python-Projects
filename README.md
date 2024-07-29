@@ -1,6 +1,6 @@
 # Beginner-Friendly Python Projects
 Python Projects for Beginners
-The objective of this repository is to build fun projects using Python. We will create 10 different projects:
+The objective of this repository is to build fun projects using Python. Each project has its own readme file and explains how to build the project. I have also added a gif which shows the final project. So it is highly recommended to read the readme files in each project before starting the build. We will create 9 different projects:
 
 - Turtle Race
 - Quiz Game
